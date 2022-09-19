@@ -46,8 +46,10 @@ News App uses libraries and tools used to build Modern Android application, main
 
 #### Get all items
 
+```bash
+ b37c8ce464114d9484d7b172d94bd8f4
+```
 
-b37c8ce464114d9484d7b172d94bd8f4
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
