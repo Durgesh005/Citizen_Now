@@ -47,7 +47,7 @@ News App uses libraries and tools used to build Modern Android application, main
 #### Get all items
 
 ```http
- NEWS_API_KEY = <INSERT_YOUR_API_KEY>
+b37c8ce464114d9484d7b172d94bd8f3
 ```
 
 | Parameter | Type     | Description                |
